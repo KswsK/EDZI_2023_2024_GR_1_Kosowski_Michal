@@ -1,0 +1,512 @@
+{
+    "USD": {
+        "1": {
+            "effectiveDate": "2024-03-25",
+            "mid": 3.9833
+        },
+        "2": {
+            "effectiveDate": "2024-03-26",
+            "mid": 3.9704
+        },
+        "3": {
+            "effectiveDate": "2024-03-27",
+            "mid": 3.9857
+        },
+        "4": {
+            "effectiveDate": "2024-03-28",
+            "mid": 4.0081
+        },
+        "5": {
+            "effectiveDate": "2024-03-29",
+            "mid": 3.9886
+        },
+        "6": {
+            "effectiveDate": "2024-04-02",
+            "mid": 4.0009
+        },
+        "7": {
+            "effectiveDate": "2024-04-03",
+            "mid": 3.9843
+        },
+        "8": {
+            "effectiveDate": "2024-04-04",
+            "mid": 3.9515
+        },
+        "9": {
+            "effectiveDate": "2024-04-05",
+            "mid": 3.9571
+        },
+        "10": {
+            "effectiveDate": "2024-04-08",
+            "mid": 3.9546
+        },
+        "11": {
+            "effectiveDate": "2024-04-09",
+            "mid": 3.9223
+        },
+        "12": {
+            "effectiveDate": "2024-04-10",
+            "mid": 3.9264
+        },
+        "13": {
+            "effectiveDate": "2024-04-11",
+            "mid": 3.9707
+        },
+        "14": {
+            "effectiveDate": "2024-04-12",
+            "mid": 3.9983
+        },
+        "15": {
+            "effectiveDate": "2024-04-15",
+            "mid": 4.0209
+        },
+        "16": {
+            "effectiveDate": "2024-04-16",
+            "mid": 4.0687
+        },
+        "17": {
+            "effectiveDate": "2024-04-17",
+            "mid": 4.0741
+        },
+        "18": {
+            "effectiveDate": "2024-04-18",
+            "mid": 4.0559
+        },
+        "19": {
+            "effectiveDate": "2024-04-19",
+            "mid": 4.0688
+        },
+        "20": {
+            "effectiveDate": "2024-04-22",
+            "mid": 4.054
+        },
+        "21": {
+            "effectiveDate": "2024-04-23",
+            "mid": 4.061
+        },
+        "22": {
+            "effectiveDate": "2024-04-24",
+            "mid": 4.0417
+        },
+        "23": {
+            "effectiveDate": "2024-04-25",
+            "mid": 4.0276
+        },
+        "24": {
+            "effectiveDate": "2024-04-26",
+            "mid": 4.0245
+        },
+        "25": {
+            "effectiveDate": "2024-04-29",
+            "mid": 4.0346
+        }
+    },
+    "CHF": {
+        "1": {
+            "effectiveDate": "2024-03-25",
+            "mid": 4.4371
+        },
+        "2": {
+            "effectiveDate": "2024-03-26",
+            "mid": 4.4047
+        },
+        "3": {
+            "effectiveDate": "2024-03-27",
+            "mid": 4.4018
+        },
+        "4": {
+            "effectiveDate": "2024-03-28",
+            "mid": 4.4228
+        },
+        "5": {
+            "effectiveDate": "2024-03-29",
+            "mid": 4.425
+        },
+        "6": {
+            "effectiveDate": "2024-04-02",
+            "mid": 4.4037
+        },
+        "7": {
+            "effectiveDate": "2024-04-03",
+            "mid": 4.3875
+        },
+        "8": {
+            "effectiveDate": "2024-04-04",
+            "mid": 4.3621
+        },
+        "9": {
+            "effectiveDate": "2024-04-05",
+            "mid": 4.3796
+        },
+        "10": {
+            "effectiveDate": "2024-04-08",
+            "mid": 4.3667
+        },
+        "11": {
+            "effectiveDate": "2024-04-09",
+            "mid": 4.3366
+        },
+        "12": {
+            "effectiveDate": "2024-04-10",
+            "mid": 4.3447
+        },
+        "13": {
+            "effectiveDate": "2024-04-11",
+            "mid": 4.3451
+        },
+        "14": {
+            "effectiveDate": "2024-04-12",
+            "mid": 4.3805
+        },
+        "15": {
+            "effectiveDate": "2024-04-15",
+            "mid": 4.4047
+        },
+        "16": {
+            "effectiveDate": "2024-04-16",
+            "mid": 4.4554
+        },
+        "17": {
+            "effectiveDate": "2024-04-17",
+            "mid": 4.4777
+        },
+        "18": {
+            "effectiveDate": "2024-04-18",
+            "mid": 4.4637
+        },
+        "19": {
+            "effectiveDate": "2024-04-19",
+            "mid": 4.4787
+        },
+        "20": {
+            "effectiveDate": "2024-04-22",
+            "mid": 4.4505
+        },
+        "21": {
+            "effectiveDate": "2024-04-23",
+            "mid": 4.4535
+        },
+        "22": {
+            "effectiveDate": "2024-04-24",
+            "mid": 4.4202
+        },
+        "23": {
+            "effectiveDate": "2024-04-25",
+            "mid": 4.4131
+        },
+        "24": {
+            "effectiveDate": "2024-04-26",
+            "mid": 4.4145
+        },
+        "25": {
+            "effectiveDate": "2024-04-29",
+            "mid": 4.4259
+        }
+    },
+    "EUR": {
+        "1": {
+            "effectiveDate": "2024-03-25",
+            "mid": 4.3091
+        },
+        "2": {
+            "effectiveDate": "2024-03-26",
+            "mid": 4.3093
+        },
+        "3": {
+            "effectiveDate": "2024-03-27",
+            "mid": 4.3153
+        },
+        "4": {
+            "effectiveDate": "2024-03-28",
+            "mid": 4.3191
+        },
+        "5": {
+            "effectiveDate": "2024-03-29",
+            "mid": 4.3009
+        },
+        "6": {
+            "effectiveDate": "2024-04-02",
+            "mid": 4.2934
+        },
+        "7": {
+            "effectiveDate": "2024-04-03",
+            "mid": 4.2923
+        },
+        "8": {
+            "effectiveDate": "2024-04-04",
+            "mid": 4.2921
+        },
+        "9": {
+            "effectiveDate": "2024-04-05",
+            "mid": 4.2883
+        },
+        "10": {
+            "effectiveDate": "2024-04-08",
+            "mid": 4.2805
+        },
+        "11": {
+            "effectiveDate": "2024-04-09",
+            "mid": 4.2588
+        },
+        "12": {
+            "effectiveDate": "2024-04-10",
+            "mid": 4.2641
+        },
+        "13": {
+            "effectiveDate": "2024-04-11",
+            "mid": 4.2649
+        },
+        "14": {
+            "effectiveDate": "2024-04-12",
+            "mid": 4.2666
+        },
+        "15": {
+            "effectiveDate": "2024-04-15",
+            "mid": 4.2851
+        },
+        "16": {
+            "effectiveDate": "2024-04-16",
+            "mid": 4.3197
+        },
+        "17": {
+            "effectiveDate": "2024-04-17",
+            "mid": 4.3353
+        },
+        "18": {
+            "effectiveDate": "2024-04-18",
+            "mid": 4.3309
+        },
+        "19": {
+            "effectiveDate": "2024-04-19",
+            "mid": 4.3316
+        },
+        "20": {
+            "effectiveDate": "2024-04-22",
+            "mid": 4.3203
+        },
+        "21": {
+            "effectiveDate": "2024-04-23",
+            "mid": 4.3335
+        },
+        "22": {
+            "effectiveDate": "2024-04-24",
+            "mid": 4.3177
+        },
+        "23": {
+            "effectiveDate": "2024-04-25",
+            "mid": 4.3198
+        },
+        "24": {
+            "effectiveDate": "2024-04-26",
+            "mid": 4.3225
+        },
+        "25": {
+            "effectiveDate": "2024-04-29",
+            "mid": 4.319
+        }
+    },
+    "GBP": {
+        "1": {
+            "effectiveDate": "2024-03-25",
+            "mid": 5.0246
+        },
+        "2": {
+            "effectiveDate": "2024-03-26",
+            "mid": 5.0243
+        },
+        "3": {
+            "effectiveDate": "2024-03-27",
+            "mid": 5.0327
+        },
+        "4": {
+            "effectiveDate": "2024-03-28",
+            "mid": 5.0474
+        },
+        "5": {
+            "effectiveDate": "2024-03-29",
+            "mid": 5.03
+        },
+        "6": {
+            "effectiveDate": "2024-04-02",
+            "mid": 5.0256
+        },
+        "7": {
+            "effectiveDate": "2024-04-03",
+            "mid": 5.0117
+        },
+        "8": {
+            "effectiveDate": "2024-04-04",
+            "mid": 5.0042
+        },
+        "9": {
+            "effectiveDate": "2024-04-05",
+            "mid": 5.0003
+        },
+        "10": {
+            "effectiveDate": "2024-04-08",
+            "mid": 4.9915
+        },
+        "11": {
+            "effectiveDate": "2024-04-09",
+            "mid": 4.966
+        },
+        "12": {
+            "effectiveDate": "2024-04-10",
+            "mid": 4.9843
+        },
+        "13": {
+            "effectiveDate": "2024-04-11",
+            "mid": 4.9835
+        },
+        "14": {
+            "effectiveDate": "2024-04-12",
+            "mid": 5.0007
+        },
+        "15": {
+            "effectiveDate": "2024-04-15",
+            "mid": 5.0192
+        },
+        "16": {
+            "effectiveDate": "2024-04-16",
+            "mid": 5.0609
+        },
+        "17": {
+            "effectiveDate": "2024-04-17",
+            "mid": 5.0812
+        },
+        "18": {
+            "effectiveDate": "2024-04-18",
+            "mid": 5.0589
+        },
+        "19": {
+            "effectiveDate": "2024-04-19",
+            "mid": 5.0615
+        },
+        "20": {
+            "effectiveDate": "2024-04-22",
+            "mid": 5.0131
+        },
+        "21": {
+            "effectiveDate": "2024-04-23",
+            "mid": 5.0238
+        },
+        "22": {
+            "effectiveDate": "2024-04-24",
+            "mid": 5.022
+        },
+        "23": {
+            "effectiveDate": "2024-04-25",
+            "mid": 5.0427
+        },
+        "24": {
+            "effectiveDate": "2024-04-26",
+            "mid": 5.0414
+        },
+        "25": {
+            "effectiveDate": "2024-04-29",
+            "mid": 5.0509
+        }
+    },
+    "JPY": {
+        "1": {
+            "effectiveDate": "2024-03-25",
+            "mid": 0.026309
+        },
+        "2": {
+            "effectiveDate": "2024-03-26",
+            "mid": 0.026247
+        },
+        "3": {
+            "effectiveDate": "2024-03-27",
+            "mid": 0.026347
+        },
+        "4": {
+            "effectiveDate": "2024-03-28",
+            "mid": 0.026472
+        },
+        "5": {
+            "effectiveDate": "2024-03-29",
+            "mid": 0.026366
+        },
+        "6": {
+            "effectiveDate": "2024-04-02",
+            "mid": 0.026384
+        },
+        "7": {
+            "effectiveDate": "2024-04-03",
+            "mid": 0.026262
+        },
+        "8": {
+            "effectiveDate": "2024-04-04",
+            "mid": 0.026045
+        },
+        "9": {
+            "effectiveDate": "2024-04-05",
+            "mid": 0.026133
+        },
+        "10": {
+            "effectiveDate": "2024-04-08",
+            "mid": 0.026035
+        },
+        "11": {
+            "effectiveDate": "2024-04-09",
+            "mid": 0.025823
+        },
+        "12": {
+            "effectiveDate": "2024-04-10",
+            "mid": 0.025856
+        },
+        "13": {
+            "effectiveDate": "2024-04-11",
+            "mid": 0.025911
+        },
+        "14": {
+            "effectiveDate": "2024-04-12",
+            "mid": 0.02608
+        },
+        "15": {
+            "effectiveDate": "2024-04-15",
+            "mid": 0.026134
+        },
+        "16": {
+            "effectiveDate": "2024-04-16",
+            "mid": 0.026335
+        },
+        "17": {
+            "effectiveDate": "2024-04-17",
+            "mid": 0.026359
+        },
+        "18": {
+            "effectiveDate": "2024-04-18",
+            "mid": 0.026274
+        },
+        "19": {
+            "effectiveDate": "2024-04-19",
+            "mid": 0.02635
+        },
+        "20": {
+            "effectiveDate": "2024-04-22",
+            "mid": 0.026202
+        },
+        "21": {
+            "effectiveDate": "2024-04-23",
+            "mid": 0.026226
+        },
+        "22": {
+            "effectiveDate": "2024-04-24",
+            "mid": 0.026091
+        },
+        "23": {
+            "effectiveDate": "2024-04-25",
+            "mid": 0.025871
+        },
+        "24": {
+            "effectiveDate": "2024-04-26",
+            "mid": 0.025711
+        },
+        "25": {
+            "effectiveDate": "2024-04-29",
+            "mid": 0.025886
+        }
+    }
+}
